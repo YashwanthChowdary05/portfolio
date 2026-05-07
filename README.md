@@ -89,14 +89,14 @@ You already have a GitHub account. This is the easiest path.
 ```bash
 git init
 git add index.html README.md
-git commit -m "DevOps portfolio v1"
+git commit -m "DevOps portfolio"
 git branch -M main
-git remote add origin https://github.com/Yashwanth-Tek/Yashwanth-Tek.github.io.git
+git remote add origin https://github.com/YashwanthChowdary05/portfolio.git
 git push -u origin main
 ```
 
-Create a repo named exactly `Yashwanth-Tek.github.io` on GitHub before pushing.
-Live at `https://yashwanth-tek.github.io` within ~1 minute.
+Create a repo named exactly `portfolio` on GitHub before pushing.
+Live at `https://yashwanthChowdary05.github.io` within ~1 minute.
 
 ### Option 2 — Netlify
 
