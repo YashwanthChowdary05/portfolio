@@ -2,7 +2,7 @@
 
 # Yashwanth Chowdary
 
-### DevOps & Cloud Engineer — Portfolio Site
+### DevOps Engineer — Portfolio Site
 
 A single-file animated portfolio.
 Cinematic dark, orange glow, terminal energy.
